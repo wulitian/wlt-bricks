@@ -84,7 +84,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imooc-lego/lego-components"
+    "url": "https://github.com/wilitian/wlt-bricks"
   },
   "types": "dist/index.d.ts"
 }
